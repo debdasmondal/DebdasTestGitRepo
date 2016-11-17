@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test file changed now
+=======
+test file changed
+New content
+Hiiii
